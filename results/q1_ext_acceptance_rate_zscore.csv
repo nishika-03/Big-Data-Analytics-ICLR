@@ -1,0 +1,11 @@
+year,total_submissions,accepted_count,acceptance_rate,z_score,year_type
+2017,489,245,50.1,1.53,Unusually Lenient
+2018,1012,425,42.0,0.897,Normal Range
+2019,1569,502,31.99,0.115,Normal Range
+2020,2593,687,26.49,-0.315,Normal Range
+2021,3009,859,28.55,-0.154,Normal Range
+2022,3422,1094,31.97,0.114,Normal Range
+2023,4955,1573,31.75,0.097,Normal Range
+2024,7401,2261,30.55,0.003,Normal Range
+2025,11663,3703,31.75,0.097,Normal Range
+2026,120,0,0.0,-2.384,Unusually Selective

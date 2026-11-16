@@ -1,0 +1,12 @@
+keyword_clean,year,keyword_count,prev_count,growth_rate_pct
+large reasoning models,2025,1,,
+large reasoning models,2026,57,1.0,5600.0
+llm,2023,4,,
+llm,2024,76,4.0,1800.0
+llm,2025,350,76.0,360.5
+llm,2026,804,350.0,129.7
+spatial reasoning,2024,1,,
+spatial reasoning,2025,3,1.0,200.0
+spatial reasoning,2026,57,3.0,1800.0
+test-time scaling,2025,3,,
+test-time scaling,2026,87,3.0,2800.0

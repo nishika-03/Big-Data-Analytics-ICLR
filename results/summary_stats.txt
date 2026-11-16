@@ -1,0 +1,4 @@
+ICLR rows: 55906
+OpenAlex rows: 2245
+Accepted papers with at least one score below 5: 1596
+95th percentile of cited_by_count (matched papers): 299.0
