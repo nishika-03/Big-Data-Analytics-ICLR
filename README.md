@@ -9,6 +9,7 @@ PySpark analysis (run on Databricks) of ICLR peer-review data joined with OpenAl
 | `notebooks/Big_Data_Analytics_ICLR.ipynb` | Main PySpark notebook (Databricks) |
 | `notebooks/Big_Data_Analytics_ICLR.html` | Rendered HTML export with outputs |
 | `report/Big_Data_Analytics_ICLR_Report.pdf` | Written report |
+| `data/iclr26v1.parquet` | ICLR submissions: reviewer scores, decisions and keywords |
 | `data/openalex.json` | OpenAlex metadata used for the join |
 
 ## Analysis questions and extensions
@@ -26,6 +27,6 @@ PySpark (DataFrames, `pyspark.sql.functions`, window functions) and Databricks (
 
 ## Running it
 
-1. Upload `iclr26v1.parquet` and `data/openalex.json` to a Databricks volume.
+1. Upload `data/iclr26v1.parquet` and `data/openalex.json` to a Databricks volume.
 2. Update `ICLR_PATH` and `OPENALEX_PATH` in the first code cell.
 3. Run all cells.
